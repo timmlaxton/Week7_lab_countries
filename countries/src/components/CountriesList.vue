@@ -1,5 +1,6 @@
 <template lang="html">
-{{countries}}
+<div>{{countries}}
+  </div>
 </template>
 
 <script>
